@@ -1,0 +1,13 @@
+C:\Users\bc2292\source\repos\FourthTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.exe
+C:\Users\bc2292\source\repos\FourthTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.deps.json
+C:\Users\bc2292\source\repos\FourthTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.runtimeconfig.json
+C:\Users\bc2292\source\repos\FourthTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.runtimeconfig.dev.json
+C:\Users\bc2292\source\repos\FourthTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.dll
+C:\Users\bc2292\source\repos\FourthTask\FourthTask\bin\Debug\netcoreapp3.1\FourthTask.pdb
+C:\Users\bc2292\source\repos\FourthTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.csprojAssemblyReference.cache
+C:\Users\bc2292\source\repos\FourthTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.csproj.CoreCompileInputs.cache
+C:\Users\bc2292\source\repos\FourthTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.AssemblyInfoInputs.cache
+C:\Users\bc2292\source\repos\FourthTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.AssemblyInfo.cs
+C:\Users\bc2292\source\repos\FourthTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.dll
+C:\Users\bc2292\source\repos\FourthTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.pdb
+C:\Users\bc2292\source\repos\FourthTask\FourthTask\obj\Debug\netcoreapp3.1\FourthTask.genruntimeconfig.cache
